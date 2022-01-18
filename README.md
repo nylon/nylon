@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nylon
-- 👀 I’m interested in horse-riding, vintage fashion and collecting brass trinkets.
-- 🌱 I’m currently learning nx-dev
+- 👀 I’m interested in horse-riding, swinging like a monkey, catching fish with a net and collecting brass trinkets.
+- 🌱 I’m currently sitting.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me ... don't.
 
