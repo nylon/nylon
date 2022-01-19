@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nylon
 - 👀 I’m interested in horse-riding, swinging like a monkey, catching fish with a net and collecting brass trinkets.
 - 🌱 I’m currently sitting.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me ... don't.
+- 💞️ I’m looking to collaborate on space exploration.
 
 <!---
 nylon/nylon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
