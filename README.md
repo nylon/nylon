@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nylon
 - 👀 I’m interested in horse-riding, swinging like a monkey, catching fish with a net and collecting brass trinkets.
-- 🌱 I’m currently sitting.
+- 🌱 I’m currently in QA.
 - 💞️ I’m looking to collaborate on space exploration.
 
 <!---
